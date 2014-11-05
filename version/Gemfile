@@ -48,7 +48,3 @@ gem 'refinerycms-acts-as-indexed', '~> 1.0.0'
 #  gem 'refinerycms-inquiries', '~> 2.1.0'
 #  gem 'refinerycms-search', '~> 2.1.0'
 #  gem 'refinerycms-page-images', '~> 2.1.0'
-
-gem "therubyracer"
-gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
-gem "twitter-bootstrap-rails"
